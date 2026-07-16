@@ -7,27 +7,32 @@ Component-based workflow, with advanced features to nit-pick & tweak metrics in 
 <br>
 [MkFont](https://nebukam.github.io/mkfont/) — Homepage  
 [Documentation](https://nebukam.github.io/mkfont/docs/) — Documentation  
-[Guides](https://nebukam.github.io/mkfont/guides/) — Guides & tutorials  
+[Guides](https://nebukam.github.io/mkfont/guides/) — Guides & tutorials
 
 ---
 
-## Screenshots  
+## Screenshots
 
-![A](https://nebukam.github.io/mkfont/assets/images/screenshots/A.png)  
+![A](https://nebukam.github.io/mkfont/assets/images/screenshots/A.png)
 
-![B](https://nebukam.github.io/mkfont/assets/images/screenshots/B.png)   
+![B](https://nebukam.github.io/mkfont/assets/images/screenshots/B.png)
 
-![C](https://nebukam.github.io/mkfont/assets/images/screenshots/C.png)   
-
+![C](https://nebukam.github.io/mkfont/assets/images/screenshots/C.png)
 
 ## Roadmap
-MkFont is under active development, have a look to the repo [issues](https://github.com/Nebukam/mkfont/issues) to see knowns bug and upcoming improvements/features!  
+
+This fork is trying to update the project directories to build properly with new versions of libraries.
+Also planned "Linux Builds" for mainstream distros (like Arch Linux, Debian/Ubuntu, Fedora and NixOS).
+
+<!-- MkFont is under active development, have a look to the repo [issues](https://github.com/Nebukam/mkfont/issues) to see knowns bug and upcoming improvements/features!   -->
 
 ## Tech
+
 MkFont is built with [NKMjs](https://github.com/Nebukam/nkmjs) and runs with [Electron](https://github.com/electron/electron).  
 [`INSTALL.md`](https://github.com/Nebukam/mkfont/blob/main/INSTALL.md) — how to build the app on your machine
 
 ## Kudos
+
 MkFont wouldn't be possible if not for [@fontello](https://github.com/fontello) folks sharing their magic : the app is primarily built around [svg2ttf](https://github.com/fontello/svg2ttf) & [svgpath](https://github.com/fontello/svgpath).  
 MkFont uses the [Unicode](https://home.unicode.org/) database.  
 Screenshots are showcasing the font [Meticula](https://freetypography.com/2019/05/16/free-font-meticula/).
