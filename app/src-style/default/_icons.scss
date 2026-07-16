@@ -2,7 +2,7 @@
 /*<!---- @nkmjs/style ----!>*/
 /*--------------------------*/
 
-@import './_mixins';
+@use './_mixins';
 
 $icon-paths: "<!nkm-- list-files ./assets/icons .svg,.png -->";
 $icon-names: "<!nkm-- list-files ./assets/icons .svg,.png name-only rm=icon_ -->";

@@ -2,10 +2,10 @@
 /*<!---- @nkmjs/ui-core ----!>*/
 /*----------------------------*/
 
-@import '../_constants';
-@import '../_variables';
-@import '../_functions';
-@import '../_mixins';
+@use '../_constants';
+@use '../_variables';
+@use '../_functions';
+@use '../_mixins';
 
 :host{
     --bg_color: rgba(var(#{$id_col_base_200}-rgb), 0.5);    

@@ -2,10 +2,10 @@
 /*<!---- @nkmjs/dialog ----!>*/
 /*---------------------------*/
 
-@import '../_constants';
-@import '../_variables';
-@import '../_functions';
-@import '../_mixins';
+@use '../_constants';
+@use '../_variables';
+@use '../_functions';
+@use '../_mixins';
 
 :host{
     padding:var(#{$id_size_l});

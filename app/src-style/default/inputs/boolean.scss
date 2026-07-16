@@ -2,10 +2,10 @@
 /*<!---- @nkmjs/ui-library ----!>*/
 /*-------------------------------*/
 
-@import '../_variables';
-@import '../_mixins';
-@import '../_functions';
-@import '../_constants';
+@use '../_variables';
+@use '../_mixins';
+@use '../_functions';
+@use '../_constants';
 
 :host {
     cursor: pointer;

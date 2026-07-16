@@ -67,7 +67,7 @@
             }
         },
         {
-            "enabled": false,
+            "enabled": true,
             "platform": "linux",
             "arch": "x64",
             "asar": true,

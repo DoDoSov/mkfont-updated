@@ -2,10 +2,10 @@
 /*<!---- @nkmjs/ui-workspace ----!>*/
 /*---------------------------------*/
 
-@import '../../_constants';
-@import '../../_variables';
-@import '../../_functions';
-@import '../../_mixins';
+@use '../../_constants';
+@use '../../_variables';
+@use '../../_functions';
+@use '../../_mixins';
 
 :host{
     background-color: rgba(0,0,0,0.1);

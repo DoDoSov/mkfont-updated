@@ -2,12 +2,12 @@
 /*<!---- @nkmjs/ui-library ----!>*/
 /*-------------------------------*/
 
-@import '../_constants';
-@import '../_variables';
-@import '../_mixins';
-@import '../_functions';
+@use '../_constants';
+@use '../_variables';
+@use '../_mixins';
+@use '../_functions';
 
-@import './_button';
+@use './_button';
 
 :host{
 

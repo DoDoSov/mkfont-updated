@@ -2,11 +2,11 @@
 /*<!---- @nkmjs/style ----!>*/
 /*--------------------------*/
 
-@import './_mixins';
-@import './_variables';
-@import './_typography';
+@use './_mixins';
+@use './_variables';
+@use './_typography';
 
-@import './_animations';
+@use './_animations';
 
 :host{
     transition: $transition_opacity;

@@ -2,8 +2,8 @@
 /*<!---- @nkmjs/ui-workspace ----!>*/
 /*---------------------------------*/
 
-@import '../_variables';
-@import '../_mixins';
+@use '../_variables';
+@use '../_mixins';
 
 :host{
     background-color: var(#{$id_workspace_bg});

@@ -2,9 +2,9 @@
 /*<!---- @nkmjs/ui-library ----!>*/
 /*-------------------------------*/
 
-@import '../_variables';
-@import '../_mixins';
-@import '../_constants';
+@use '../_variables';
+@use '../_mixins';
+@use '../_constants';
 
 :host{
     --dot-size: min(var(--size-xs), calc(var(--size) / 3));

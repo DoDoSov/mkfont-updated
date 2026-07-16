@@ -3,8 +3,8 @@
 /*-------------------------------*/
 
 
-@import '../_variables';
-@import '../_constants';
+@use '../_variables';
+@use '../_constants';
 
 :host{
     position: relative;

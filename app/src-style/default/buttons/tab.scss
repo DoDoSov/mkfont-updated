@@ -2,10 +2,10 @@
 /*<!---- @nkmjs/ui-workspace ----!>*/
 /*---------------------------------*/
 
-@import '../_constants';
-@import '../_variables';
-@import '../_functions';
-@import '../_mixins';
+@use '../_constants';
+@use '../_variables';
+@use '../_functions';
+@use '../_mixins';
 
 $hint_size: 4px;
 $sel_hint_size: 1px;

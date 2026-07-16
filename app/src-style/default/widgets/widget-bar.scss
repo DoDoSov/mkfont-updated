@@ -2,9 +2,9 @@
 /*<!---- @nkmjs/ui-core ----!>*/
 /*----------------------------*/
 
-@import '../_constants';
-@import '../_variables';
-@import '../_mixins';
+@use '../_constants';
+@use '../_variables';
+@use '../_mixins';
 
 :host {
     box-sizing: border-box;
