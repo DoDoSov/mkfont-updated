@@ -23,6 +23,9 @@ Component-based workflow, with advanced features to nit-pick & tweak metrics in 
 
 This fork is trying to update the project directories to build properly with new versions of libraries.
 Also planned "Linux Builds" for mainstream distros (like Arch Linux, Debian/Ubuntu, Fedora and NixOS).
+Additionally it would try to fix some issues/bugs from original repo.
+!If original developer will come back to maintain project, then this work would be stopped!
+!I just want to make usable this program for more PC configurations!
 
 <!-- MkFont is under active development, have a look to the repo [issues](https://github.com/Nebukam/mkfont/issues) to see knowns bug and upcoming improvements/features!   -->
 
