@@ -316,9 +316,9 @@
 /*<!---- @nkmjs/ui-core ----!>*/
 /*----------------------------*/
 
-@import './_variables';
-@import './_constants';
-@import './_functions';
+@use './_variables';
+@use './_constants';
+@use './_functions';
 
 
 @mixin state-color-variations( $main_color, $secondary_color, $prim_alpha: 0.5, $sec_alpha: 0.8) {

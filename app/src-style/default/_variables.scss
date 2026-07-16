@@ -325,8 +325,8 @@ $size_ids_third:
 /*<!---- @nkmjs/ui-core ----!>*/
 /*----------------------------*/
 
-@import './_constants';
-@import './_functions';
+@use './_constants';
+// @use './_functions';
 
 $default_states_ids:
     str-replace($IDLE, '.'),
